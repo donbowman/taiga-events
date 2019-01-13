@@ -1,4 +1,4 @@
-uuid = require('node-uuid')
+uuid = require('uuid')
 signing = require('./signing')
 SubscriptionManager = require('./subscription').SubscriptionManager
 logger = require('./logger').logger
